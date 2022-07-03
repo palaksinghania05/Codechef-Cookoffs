@@ -4,7 +4,7 @@ or a right shoe (represented using 1). Given A, B, C, representing the informati
 find out whether you can go out now, wearing one left shoe and one right shoe.
  */
 
-package july;
+package y2021.july;
 
 import java.util.ArrayList;
 import java.util.Scanner;
